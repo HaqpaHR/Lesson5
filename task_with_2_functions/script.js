@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
   
 let answer
 let compNumber = rand(1,10);

@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 let n = prompt('put your number');
 let x = prompt('put extent');
